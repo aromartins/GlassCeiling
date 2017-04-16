@@ -1,16 +1,13 @@
-# Contributing to [Project]
+# Contributing to GlassCeiling
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+Thanks for your interest in contributing to Glassceiling :tada:! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+We are working on a professional development platform for women professionals, focused on workplace reviews and network building, toward breaking through the glass ceiling together.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+If you are someone with website developping experience who considers that closing the professional development gap between men and women is due yesterday (!), please read our contributor guidelines on how we can work together to shatter the glassceiling!
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This document is a set of guidelines for contributing to GlassCeiling on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
-If your guide is long, consider adding a table of contents.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -24,7 +21,6 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
 > Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
