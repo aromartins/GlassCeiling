@@ -4,8 +4,6 @@ Hi there,
 thanks for stopping by our project! 
 We are working on a professional development platform for women professionals, focused on workplace reviews and network building, toward breaking through the glass ceiling together.
 
-https://thumbs.dreamstime.com/z/broken-glass-macro-photo-white-31452298.jpg
-
 The female (cis/female-identifying/gender non-conforming) population is grossly underrepresented among the upper echelons of multiple fields. This platform will be a space to share their experiences and build safer, more inclusive workplaces. We envision users will use this platform to share workplace reviews across categories ranging from compensation to parenting support to mentorship. We hope to help users to develop robust mentoring and support networks, and empower them with the information they need to break through the glass ceiling.
 
 ## Getting Started
