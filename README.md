@@ -1,22 +1,25 @@
-# [ Project Title ]
+# GlassCeiling
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Hi there,
+Thanks for stopping by our project's README! 
+We are working on a professional development platform for women professionals, focused on workplace reviews and network building, toward breaking through the glass ceiling together.
 
-[ If you have one, add your logo or an image here ]
+https://thumbs.dreamstime.com/z/broken-glass-macro-photo-white-31452298.jpg
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+The female (cis/female-identifying/gender non-conforming) population is grossly underrepresented among the upper echelons of multiple fields. This platform will be a space to share their experiences and build safer, more inclusive workplaces. We envision users will use this platform to share workplace reviews across categories ranging from compensation to parenting support to mentorship. We hope to help users to develop robust mentoring and support networks, and empower them with the information they need to break through the glass ceiling.
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+We will be updating this section soon!
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to GlassCeiling! 
+There are many ways to contribute and we will be updating this section soon! 
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a code of conduct (CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to @_aromartins (DM).
 
 ## MozSprint
 
