@@ -1,7 +1,7 @@
 # GlassCeiling
 
 Hi there,
-Thanks for stopping by our project's README! 
+thanks for stopping by our project! 
 We are working on a professional development platform for women professionals, focused on workplace reviews and network building, toward breaking through the glass ceiling together.
 
 https://thumbs.dreamstime.com/z/broken-glass-macro-photo-white-31452298.jpg
