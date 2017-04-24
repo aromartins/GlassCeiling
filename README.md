@@ -43,7 +43,7 @@ This project adheres to a code of conduct (CODE_OF_CONDUCT.md). By participating
 ## Thank you!
 
 Thanks so much for stopping by, we hope you'll join our quest for better working conditions for academics! 
-![My image](http://github.com/voxverus/GlassCeiling/tree/master/img/no_time.jpg)
+![My image](img/no_time.jpg)
 
 ## MozSprint
 
