@@ -38,7 +38,7 @@ Visit us on twitter: <a href='https://twitter.com/kellybclancy'>aromartins</a> a
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct] (CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to @_aromartins (DM).
+This project adheres to a <a href='https://github.com/voxverus/GlassCeiling/blob/master/CODE_OF_CONDUCT.md'>code of conduct</a>. By participating, you are expected to uphold this code. Please report unacceptable behavior to @_aromartins (DM).
 
 ## Thank you!
 
