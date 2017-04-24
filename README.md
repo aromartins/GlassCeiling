@@ -18,6 +18,10 @@ While sites like glassdoor are helpful for professionals, academic positions oft
 
 Research is uncertain enough, let's bring more light to academic workplaces!
 
+## Who are we?
+
+We are Raquel Martins and Kelly Clancy, two scientists who want to help make academia a more inclusive place, and to help academics get the most out of their careers. We're proud members of the current <a href='https://medium.com/@MozOpenLeaders'>Mozilla Open Leaders cohort.</a>
+
 ## What do we need?
 
 Your help! We're looking for web developers and designers of all skill levels to help build the site. We could use input on any of these issues: web/user experience design, database maintenance and data protection, documentation, maintenance, all the things.  Because this project will be most useful if lots of people use it, we'd also love input from people with knowledge of marketing, fundraising, advertising and the like to help get the word out and to get users!
@@ -26,16 +30,10 @@ Your help! We're looking for web developers and designers of all skill levels to
 
 If you're interested in helping out, we'd be thrilled to to hear from you! We want to maintain a positive environment for all interested contributors, so please check out the contributor guidelines and read more about our vision in our Roadmap!
 
-## Who are we?
-
-We are Raquel Martins and Kelly Clancy, two scientists who want to help make academia a more inclusive place, and to help academics get the most out of their careers. We're proud members of the current <a href='https://medium.com/@MozOpenLeaders'>Mozilla Open Leaders cohort.</a>
-
 ## Contact us
 
 <a href='https://github.com/voxverus/GlassCeiling/issues'>Open an issue on this github repository!</a>
-
 <a href='http://voxverus.slack.com'>Join our slack team!</a>
-
 Visit us on twitter: <a href='https://twitter.com/kellybclancy'>aromartins</a> and <a href='https://twitter.com/kellybclancy'>kellybclancy</a>
 
 ## Participation Guidelines
@@ -45,7 +43,8 @@ This project adheres to a code of conduct (CODE_OF_CONDUCT.md). By participating
 ## Thank you!
 
 Thanks so much for stopping by, we hope you'll join our quest for better working conditions for academics! 
-![My image](/img/no time to explain.jpg)
+![My image](https://github.com/voxverus/GlassCeiling/tree/master/img/no_time.jpg)
+
 ## MozSprint
 
 Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
