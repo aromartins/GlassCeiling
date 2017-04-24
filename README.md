@@ -1,23 +1,48 @@
 # GlassCeiling
 
-Hi there,
-thanks for stopping by Glassceiling! 
-We are working on a professional development platform for women professionals, focused on workplace reviews and network building, toward breaking through the glass ceiling together.
+Welcome to the GlassCeiling project! Thanks for stopping by!
 
-The female (cis/female-identifying/gender non-conforming) population is grossly underrepresented among the upper echelons of multiple fields. This platform will be a space to share their experiences and build safer, more inclusive workplaces. We envision users will use this platform to share workplace reviews across categories ranging from compensation to parenting support to mentorship. We hope to help users to develop robust mentoring and support networks, and empower them with the information they need to break through the glass ceiling.
+## What are we doing?
+We are building a professional development platform for academics, focused on workplace reviews and network building. Think glassdoor for a rather unique workforce. 
 
-## Getting Started
+### The problem 
+Academics are a vulnerable workforce, with very little information around hiring and workplace practices. Universities increasingly exploit academics (e.g. the ongoing adjunct professor debacle) and often encourage a highly toxic work environment which results in old boys clubs.
 
-We will be updating this section soon!
+We want to change that.
 
-## Contributing
+### The solution
 
-Thanks for your interest in contributing to GlassCeiling! 
-There are many ways to contribute and we will be updating this section soon! 
+By bringing transparency and accountability to academic workplaces, we hope to give academics a place to publically voice their concerns, share solutions, and find mentors and allies. Useres can share salary and negotiation information so job seekers have more leverage. Universities will be held accountable for maintaining environments that academics *want to work in*, which are also *safe for students and early career academics*. 
+
+While sites like glassdoor are helpful for professionals, academic positions often come with a dozen hidden variables, depending on the field (teaching load, lab space, childcare leave rules, startup package, etc). Not to mention, hiring practices may vary wildly across institutions/borders. We envision users will use this platform to share workplace reviews across categories ranging from compensation to parenting support to mentorship. We hope to help users to develop robust mentoring and support networks, and empower them with the information they need to succeed.
+
+Research is uncertain enough, let's bring more light to academic workplaces!
+
+## Who are we?
+
+We are Raquel Martins and Kelly Clancy, two scientists who want to help make academia a more inclusive place, and to help academics get the most out of their careers. We're proud members of the current <a href='https://medium.com/@MozOpenLeaders'>Mozilla Open Leaders cohort.</a>
+
+## What do we need?
+
+Your help! We're looking for web developers and designers of all skill levels to help build the site. We could use input on any of these issues: web/user experience design, database maintenance and data protection, documentation, maintenance, all the things.  Because this project will be most useful if lots of people use it, we'd also love input from people with knowledge of marketing, fundraising, advertising and the like to help get the word out and to get users!
+
+## How can you get involved?
+
+If you're interested in helping out, we'd be thrilled to to hear from you! We want to maintain a positive environment for all interested contributors, so please check out the contributor guidelines and read more about our vision in our Roadmap!
+
+## Contact us
+
+<a href='https://github.com/voxverus/GlassCeiling/issues'>Open an issue on this github repository!</a>
+<a href='http://voxverus.slack.com'>Join our slack team!</a>
+Visit us on twitter: <a href='https://twitter.com/kellybclancy'>aromartins</a> and <a href='https://twitter.com/kellybclancy'>kellybclancy</a>
 
 ## Participation Guidelines
 
 This project adheres to a code of conduct (CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to @_aromartins (DM).
+
+## Thank you!
+
+Thanks so much for stopping by, we hope you'll join our quest for better working conditions for academics! 
 
 ## MozSprint
 
