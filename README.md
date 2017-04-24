@@ -30,7 +30,7 @@ The core functionality we see as follows: users can submit detailed (very anonym
 
 ## How can you get involved?
 
-If you're interested in helping out, we'd be thrilled to to hear from you! We want to maintain a positive environment for all interested contributors, so please check out the contributor guidelines and read more about our vision in our Roadmap! Check our
+If you're interested in helping out, we'd be thrilled to to hear from you! We want to maintain a positive environment for all interested contributors, so please check out the contributor guidelines and read more about our vision in our [Roadmap](https://docs.google.com/document/d/1vmuGnl6ipPJgVkG9dYw_yOzqBk3-p8EWiEbKyiUunxU/edit?ts=58d83ff5).
 
 ## Contact us
 
