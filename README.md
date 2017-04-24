@@ -45,7 +45,7 @@ This project adheres to a code of conduct (CODE_OF_CONDUCT.md). By participating
 ## Thank you!
 
 Thanks so much for stopping by, we hope you'll join our quest for better working conditions for academics! 
-![My image]('http://github.com/voxverus/GlassCeiling/tree/master/img/no time to explain.jpg')
+![My image](/img/no time to explain.jpg)
 ## MozSprint
 
 Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
