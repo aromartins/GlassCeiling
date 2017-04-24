@@ -2,11 +2,11 @@
 
 Thanks for your interest in contributing to Glassceiling :tada:! 
 
-We are working on a professional development platform for women professionals, focused on workplace reviews and network building, toward breaking through the glass ceiling together.
+We are working on a professional development platform for academics, focused on workplace reviews and network building, toward building a more inclusive academia.
 
-If you are someone with website developping experience who considers that closing the professional development gap between men and women is due yesterday (!), please read our contributor guidelines on how we can work together to shatter the glassceiling!
+If you are someone who wants to empower academics with leverage for better workplaces and help level the playing field for underrepresented minorities in academia, please read our contributor guidelines on how we can work together to shatter the glass ceiling!
 
->This document is a set of guidelines for contributing to GlassCeiling on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This document is a set of guidelines for contributing to our project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 
 * [Participation guidelines](#participation-guidelines)
@@ -17,18 +17,15 @@ If you are someone with website developping experience who considers that closin
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [rachovsky@gmail.com].
 
 ## What we're working on
 
+> Take a look at the issues in our [current milestone](https://github.com/voxverus/GlassCeiling/issues?q=is%3Aopen+is%3Aissue+milestone%3AMozsprint) or browse some [issues](https://github.com/voxverus/GlassCeiling/issues) to get started!
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+Read our [Roadmap](https://docs.google.com/document/d/1vmuGnl6ipPJgVkG9dYw_yOzqBk3-p8EWiEbKyiUunxU/edit?ts=58d83ff5).
 
 ## How to submit changes
-
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
 
 > Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
@@ -38,15 +35,23 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
+You may also like to check out Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) for more detailed instructions.
+
 ## How to report bugs
 
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](GlassCeiling/issues)! We invite all contributors to report bugs so we can tackle problems as quickly as possible. 
 
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
+Please stay on the lookout for any potential problems (bugs, content errors, overall design) that might cause trouble for the project. 
 
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+And don't forget when reporting bugs to be descriptive, include a screenshot if possible/relevant, and give details about what you think may have triggered the issue, or the exact steps which reproduce the problem. 
+
+
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+<a href='https://github.com/voxverus/GlassCeiling/issues'>Open an issue on this github repository!</a>
+<a href='http://voxverus.slack.com'>Join our slack team!</a>
+Visit us on twitter: <a href='https://twitter.com/kellybclancy'>aromartins</a> and <a href='https://twitter.com/kellybclancy'>kellybclancy</a>
+Email us! (rachovsky _at_ gmail.com, clancykelly _at_ gmail.com)
+
 
