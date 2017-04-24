@@ -26,15 +26,18 @@ We are Raquel Martins and Kelly Clancy, two scientists who want to help make aca
 
 Your help! We're looking for web developers and designers of all skill levels to help build the site. We could use input on any of these issues: web/user experience design, database maintenance and data protection, documentation, maintenance, all the things.  Because this project will be most useful if lots of people use it, we'd also love input from people with knowledge of marketing, fundraising, advertising and the like to help get the word out and to get users!
 
+The core functionality we see as follows: users can submit detailed workplace reviews, search and filter workplaces by best/worst/citycountry/etc, and ideally log in to take part in discussions, mentoring, etc.
+
 ## How can you get involved?
 
-If you're interested in helping out, we'd be thrilled to to hear from you! We want to maintain a positive environment for all interested contributors, so please check out the contributor guidelines and read more about our vision in our Roadmap!
+If you're interested in helping out, we'd be thrilled to to hear from you! We want to maintain a positive environment for all interested contributors, so please check out the contributor guidelines and read more about our vision in our Roadmap! Check our
 
 ## Contact us
 
 <a href='https://github.com/voxverus/GlassCeiling/issues'>Open an issue on this github repository!</a>
 <a href='http://voxverus.slack.com'>Join our slack team!</a>
 Visit us on twitter: <a href='https://twitter.com/kellybclancy'>aromartins</a> and <a href='https://twitter.com/kellybclancy'>kellybclancy</a>
+
 
 ## Participation Guidelines
 
