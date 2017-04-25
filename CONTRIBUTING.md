@@ -1,6 +1,6 @@
-# Contributing to GlassCeiling
+# Contributing to JobTalk
 
-Woohoo! Thanks for your interest in contributing to Glassceiling :tada:! 
+Woohoo! Thanks for your interest in contributing to JobTalk :tada:! 
 
 We are working on a professional development platform for academics, focused on workplace reviews and network building, toward making academia a more inclusive and supportive place.
 
