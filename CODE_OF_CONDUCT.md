@@ -1,7 +1,3 @@
-Use the Mozilla community participation guidelines below, or write you own Code of Coduct [using this exercise](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
-
----
-
 <!--- MOZILLA COMMUNITY PARTICIPATION GUIDLINES --->
 # Participation Guidelines
 
@@ -18,7 +14,7 @@ This project, participating in the Mozilla Festival, respects Mozilla's [communi
 
 ## Inclusion and Diversity
 
-The Mozilla Project welcomes and encourages participation by everyone. It doesn’t matter how you identify yourself or how others perceive you: we welcome you.
+The Mozilla Project welcomes and encourages participation by everyone. It doesn’t matter how you identify yourself or how others perceive you: we welcome you!
 
 We welcome contributions from everyone as long as they interact constructively with our community, including, but not limited to people of varied age, culture, ethnicity, gender, gender-identity, language, race, sexual orientation, geographical location and religious views.
 
