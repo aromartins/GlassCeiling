@@ -1,10 +1,10 @@
 # Contributing to GlassCeiling
 
-Thanks for your interest in contributing to Glassceiling :tada:! 
+Woohoo! Thanks for your interest in contributing to Glassceiling :tada:! 
 
 We are working on a professional development platform for academics, focused on workplace reviews and network building, toward making academia a more inclusive and supportive place.
 
-If you are someone who wants to empower academics with leverage for better workplaces and help level the playing field for underrepresented minorities in academia, please read our contributor guidelines on how we can work together to shatter the glass ceiling!
+If you are someone who wants to empower academics with leverage for better workplaces and help level the playing field for underrepresented minorities, please read our contributor guidelines on how we can work together to shatter the glass ceiling!
 
 >This document is a set of guidelines for contributing to our project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
@@ -39,13 +39,13 @@ You may also like to check out Node.js's [instructions for code contributions](h
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](GlassCeiling/issues)! We invite all contributors to report bugs so we can tackle problems as quickly as possible. 
-
 Please stay on the lookout for any potential problems (bugs, content errors, overall design) that might cause trouble for the project. 
+
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](GlassCeiling/issues)! We invite all contributors to report bugs so we can tackle problems as quickly as possible. 
 
 And don't forget when reporting bugs to be descriptive, include a screenshot if possible/relevant, and give details about what you think may have triggered the issue, or the exact steps which reproduce the problem. 
 
-
+Thanks!
 
 ## Communication channels
 
