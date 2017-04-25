@@ -1,12 +1,12 @@
-# GlassCeiling
+# JobTalk
 
-Welcome to the GlassCeiling project! Thanks for stopping by!
+Welcome to the JobTalk project! Thanks for stopping by!
 
 ## What are we doing?
 We are building a professional development platform for academics, focused on workplace reviews and network building. Think glassdoor for a rather unique workforce. 
 
 ### The problem 
-Academics are a vulnerable workforce, with very little information around hiring and workplace practices. Universities increasingly exploit academics (e.g. the ongoing adjunct professor debacle) and often encourage a highly toxic work environment, resulting in a vicious cycle of old boys clubs.
+Academics are a vulnerable workforce, with very little information around hiring and workplace practices. Universities increasingly exploit academics (e.g. the ongoing adjunct professor debacle) and encourage a highly toxic work environment, resulting in a vicious cycle of old boys clubs.
 
 We want to change that.
 
@@ -24,7 +24,7 @@ We are Raquel Martins and Kelly Clancy, two scientists who want to help make aca
 
 ## What do we need?
 
-Your help! We're looking for web developers and designers of all skill levels to help build the site. We could use input on any of these issues: web/user experience design, database maintenance and data protection, documentation, maintenance, all the things.  Because this project will be most useful if lots of people use it, we'd also love input from people with knowledge of marketing, fundraising, advertising and the like to help get the word out and to get users! Finally, if you have expertise about academic work practices in a certain field and can advise about what information we should collect, please get in touch! (We know the general ropes for biology, but practices in the humanities, math, engineering, etc. are more mysterious--every field has a different norm!)
+Your help! We're looking for web developers and designers of all skill levels to help build the site. We could use input on any of these issues: web/user experience design, database maintenance and data protection, documentation, maintenance, all the things.  Because this project will be most useful if lots of people use it, we'd also love input from people with knowledge of marketing, fundraising, advertising and the like to help get the word out and to get users! Finally, if you have expertise about academic work practices in a certain field and can advise about what information we should collect, please get in touch! (We know the general ropes for biology, but practices in the humanities, math, engineering, etc. are more mysterious--every field has different norms!)
 
 The core functionality we see as follows: users can submit detailed (very anonymous) workplace reviews, search and filter workplaces by best/worst/citycountry/etc, and ideally log in to connect with ongoing discussions, mentoring, etc. This will require some slick data security practices. 
 
