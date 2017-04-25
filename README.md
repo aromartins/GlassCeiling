@@ -6,7 +6,7 @@ Welcome to the GlassCeiling project! Thanks for stopping by!
 We are building a professional development platform for academics, focused on workplace reviews and network building. Think glassdoor for a rather unique workforce. 
 
 ### The problem 
-Academics are a vulnerable workforce, with very little information around hiring and workplace practices. Universities increasingly exploit academics (e.g. the ongoing adjunct professor debacle) and often encourage a highly toxic work environment which results in old boys clubs.
+Academics are a vulnerable workforce, with very little information around hiring and workplace practices. Universities increasingly exploit academics (e.g. the ongoing adjunct professor debacle) and often encourage a highly toxic work environment, resulting in a vicious cycle of old boys clubs.
 
 We want to change that.
 
