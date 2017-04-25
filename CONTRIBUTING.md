@@ -2,7 +2,7 @@
 
 Thanks for your interest in contributing to Glassceiling :tada:! 
 
-We are working on a professional development platform for academics, focused on workplace reviews and network building, toward building a more inclusive academia.
+We are working on a professional development platform for academics, focused on workplace reviews and network building, toward making academia a more inclusive and supportive place.
 
 If you are someone who wants to empower academics with leverage for better workplaces and help level the playing field for underrepresented minorities in academia, please read our contributor guidelines on how we can work together to shatter the glass ceiling!
 
