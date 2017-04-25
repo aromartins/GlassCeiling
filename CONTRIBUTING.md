@@ -17,13 +17,13 @@ This document is a set of guidelines for contributing to our project on GitHub. 
 
 ## Participation guidelines
 
->This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [rachovsky@gmail.com].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [rachovsky@gmail.com].
 
 ## What we're working on
 
 Take a look at the issues in our [current milestone](https://github.com/voxverus/GlassCeiling/issues?q=is%3Aopen+is%3Aissue+milestone%3AMozsprint) or browse some [issues](https://github.com/voxverus/GlassCeiling/issues) to get started!
 
->Read our [Roadmap](https://docs.google.com/document/d/1vmuGnl6ipPJgVkG9dYw_yOzqBk3-p8EWiEbKyiUunxU/edit?ts=58d83ff5).
+Read our [Roadmap](https://docs.google.com/document/d/1vmuGnl6ipPJgVkG9dYw_yOzqBk3-p8EWiEbKyiUunxU/edit?ts=58d83ff5).
 
 ## How to submit changes
 
