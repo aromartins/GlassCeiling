@@ -2,11 +2,11 @@
 
 Woohoo! Thanks for your interest in contributing to Glassceiling :tada:! 
 
->We are working on a professional development platform for academics, focused on workplace reviews and network building, toward making academia a more inclusive and supportive place.
+We are working on a professional development platform for academics, focused on workplace reviews and network building, toward making academia a more inclusive and supportive place.
 
->If you are someone who wants to empower academics with leverage for better workplaces and help level the playing field for underrepresented minorities, please read our contributor guidelines on how we can work together to shatter the glass ceiling!
+If you are someone who wants to empower academics with leverage for better workplaces and help level the playing field for underrepresented minorities, please read our contributor guidelines on how we can work together to shatter the glass ceiling!
 
->This document is a set of guidelines for contributing to our project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+This document is a set of guidelines for contributing to our project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 
 * [Participation guidelines](#participation-guidelines)
@@ -21,31 +21,31 @@ Woohoo! Thanks for your interest in contributing to Glassceiling :tada:!
 
 ## What we're working on
 
-> Take a look at the issues in our [current milestone](https://github.com/voxverus/GlassCeiling/issues?q=is%3Aopen+is%3Aissue+milestone%3AMozsprint) or browse some [issues](https://github.com/voxverus/GlassCeiling/issues) to get started!
+Take a look at the issues in our [current milestone](https://github.com/voxverus/GlassCeiling/issues?q=is%3Aopen+is%3Aissue+milestone%3AMozsprint) or browse some [issues](https://github.com/voxverus/GlassCeiling/issues) to get started!
 
 >Read our [Roadmap](https://docs.google.com/document/d/1vmuGnl6ipPJgVkG9dYw_yOzqBk3-p8EWiEbKyiUunxU/edit?ts=58d83ff5).
 
 ## How to submit changes
 
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 > 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
 
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
->You may also like to check out Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) for more detailed instructions.
+You may also like to check out Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) for more detailed instructions.
 
 ## How to report bugs
 
->Please stay on the lookout for any potential problems (bugs, content errors, overall design) that might cause trouble for the project. 
+Please stay on the lookout for any potential problems (bugs, content errors, overall design) that might cause trouble for the project. 
 
->Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](GlassCeiling/issues)! We invite all contributors to report bugs so we can tackle problems as quickly as possible. 
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](GlassCeiling/issues)! We invite all contributors to report bugs so we can tackle problems as quickly as possible. 
 
->And don't forget when reporting bugs to be descriptive, include a screenshot if possible/relevant, and give details about what you think may have triggered the issue, or the exact steps which reproduce the problem. 
+And don't forget when reporting bugs to be descriptive, include a screenshot if possible/relevant, and give details about what you think may have triggered the issue, or the exact steps which reproduce the problem. 
 
->Thanks!
+Thanks!
 
 ## Communication channels
 
