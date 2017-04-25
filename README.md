@@ -31,6 +31,8 @@ The core functionality we see as follows: users can submit detailed (very anonym
 ## How can you get involved?
 
 If you're interested in helping out, we'd be thrilled to to hear from you! We want to maintain a positive environment for all interested contributors, so please check out the contributor guidelines and read more about our vision in our [Roadmap](https://docs.google.com/document/d/1vmuGnl6ipPJgVkG9dYw_yOzqBk3-p8EWiEbKyiUunxU/edit?ts=58d83ff5).
+Please join our quest to make academia a more welcoming space!
+![My image](img/no_time.jpg)
 
 ## Contact us
 
@@ -45,8 +47,8 @@ This project adheres to a <a href='https://github.com/voxverus/GlassCeiling/blob
 
 ## Thank you!
 
-Thanks so much for stopping by, we hope you'll join our quest for better working conditions for academics! 
-![My image](img/no_time.jpg)
+Thanks so much for stopping by, we hope you'll join us to establish better conditions for academics! 
+
 
 ## MozSprint
 
