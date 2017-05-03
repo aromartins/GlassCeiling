@@ -18,7 +18,7 @@ While sites like glassdoor are helpful for professionals, academic positions oft
 
 Research is uncertain enough, let's bring more transparency to academic workplaces!
 
-Check out a mockup of the site [here] (https://github.com/voxverus/JobTalk/blob/master/jobTalk%20mockup.pdf).
+Check out a mockup of the site [here](https://github.com/voxverus/JobTalk/blob/master/jobTalk%20mockup.pdf).
 
 ## Who are we?
 
@@ -29,6 +29,8 @@ We are Raquel Martins and Kelly Clancy, two scientists who want to help make aca
 Your help! We're looking for web developers and designers of all skill levels to help build the site. We could use input on any of these issues: web/user experience design, database maintenance and data protection, documentation, maintenance, all the things.  Because this project will be most useful if lots of people use it, we'd also love input from people with knowledge of marketing, fundraising, advertising and the like to help get the word out and to get users! Finally, if you have expertise about academic work practices in a certain field and can advise about what information we should collect, please get in touch! (We know the general ropes for biology, but practices in the humanities, math, engineering, etc. are more mysterious--every field has different norms!)
 
 The core functionality we see as follows: users can submit detailed (very anonymous) workplace reviews, search and filter workplaces by best/worst/citycountry/etc, and ideally log in to connect with ongoing discussions, mentoring, etc. This will require some slick data security practices. 
+
+[View the site mockup](https://github.com/voxverus/JobTalk/blob/master/jobTalk%20mockup.pdf)
 
 ## How can you get involved?
 
@@ -42,6 +44,7 @@ Please join our quest to make academia a more welcoming space!
 <a href='http://voxverus.slack.com'>Join our slack team!</a>
 Visit us on twitter: <a href='https://twitter.com/kellybclancy'>aromartins</a> and <a href='https://twitter.com/kellybclancy'>kellybclancy</a>
 Email us! (rachovsky _at_ gmail.com, clancykelly _at_ gmail.com)
+
 
 ## Participation Guidelines
 
