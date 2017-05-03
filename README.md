@@ -18,6 +18,8 @@ While sites like glassdoor are helpful for professionals, academic positions oft
 
 Research is uncertain enough, let's bring more transparency to academic workplaces!
 
+Check out a mockup of the site [here] (https://github.com/voxverus/JobTalk/blob/master/jobTalk%20mockup.pdf).
+
 ## Who are we?
 
 We are Raquel Martins and Kelly Clancy, two scientists who want to help make academia a more inclusive place, and to help academics get the most out of their careers. We're proud members of the current <a href='https://medium.com/@MozOpenLeaders'>Mozilla Open Leaders cohort.</a>
