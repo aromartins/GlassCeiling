@@ -42,7 +42,9 @@ Please join our quest to make academia a more welcoming space!
 
 <a href='https://github.com/voxverus/GlassCeiling/issues'>Open an issue on this github repository!</a>
 <a href='http://voxverus.slack.com'>Join our slack team!</a>
-Visit us on twitter: <a href='https://twitter.com/kellybclancy'>aromartins</a> and <a href='https://twitter.com/kellybclancy'>kellybclancy</a>
+Visit us on twitter: 
+[jobTalk](https://twitter.com/voxverus)
+<a href='https://twitter.com/kellybclancy'>aromartins</a> and <a href='https://twitter.com/kellybclancy'>kellybclancy</a>
 Email us! (rachovsky _at_ gmail.com, clancykelly _at_ gmail.com)
 
 
