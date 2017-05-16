@@ -12,7 +12,7 @@ We want to change that.
 
 ### The solution
 
-By bringing transparency and accountability to academic workplaces, we hope to give academics a place to publically voice their concerns, share solutions, and find mentors and allies. Useres can share salary and negotiation information so job seekers have more leverage. Universities will be held accountable for maintaining environments that academics *want to work in*, which are also *safe for students and early career academics*. 
+By bringing transparency and accountability to academic workplaces, we hope to give academics a place to publicly voice their concerns, share solutions, and find mentors and allies. Users can share salary and negotiation information so job seekers have more leverage. Universities will be held accountable for maintaining environments that academics *want to work in*, which are also *safe for students and early career academics*. 
 
 While sites like glassdoor are helpful for professionals, academic positions often come with a dozen hidden variables, depending on the field (teaching load, lab space, childcare leave rules, startup package, etc). Not to mention, hiring practices may vary wildly across institutions/borders. We envision users will use this platform to share workplace reviews across categories ranging from compensation to parenting support to mentorship. We hope to help users to develop robust mentoring and support networks, and empower them with the information they need to succeed.
 
