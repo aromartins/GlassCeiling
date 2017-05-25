@@ -1,6 +1,6 @@
 # jobTalk
 
-Welcome to the JobTalk project! Thanks for stopping by!
+Welcome to the jobTalk project! Thanks for stopping by!
 
 ## What are we doing?
 We are building a professional development platform for academics, focused on workplace reviews and network building. Think glassdoor for a rather unique workforce. 
@@ -18,7 +18,7 @@ While sites like glassdoor are helpful for professionals, academic positions oft
 
 Research is uncertain enough, let's bring more transparency to academic workplaces!
 
-Check out a mockup of the site [here](https://github.com/voxverus/JobTalk/blob/master/jobTalk%20mockup.pdf).
+Check out a mockup of the site [here](https://github.com/voxverus//blob/master/jobTalk%20mockup.pdf).
 
 ## Who are we?
 
