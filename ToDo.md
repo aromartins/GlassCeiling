@@ -9,6 +9,6 @@ This is a detailed game plan for developing the jobtalk site. See [mockup](https
 * Strip text entries of possible identifying information
 * Search page to filter reviews by institution/country/high/low rank
 
-### Personal profile page
+### Social network aspect/personal profile page
 
 ## Front
