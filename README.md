@@ -19,6 +19,9 @@ While sites like glassdoor are helpful for professionals, academic positions oft
 Research is uncertain enough, let's bring more transparency to academic workplaces!
 
 Check out a mockup of the site [here](https://github.com/voxverus//blob/master/jobTalk%20mockup.pdf).
+We are currently working on issues with collaborators [here](https://github.com/safwanrahman/jobtalk_beta/issues)
+And our slack discussions are taking place [here](https://jobtalk-self-sign-in.herokuapp.com/)
+Join the team :)!
 
 ## Who are we?
 
