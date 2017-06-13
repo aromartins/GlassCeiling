@@ -1,6 +1,6 @@
-# Contributing to JobTalk
+# Contributing to jobTalk
 
-Woohoo! Thanks for your interest in contributing to JobTalk :tada:! 
+Woohoo! Thanks for your interest in contributing to jobTalk :tada:! 
 
 We are working on a professional development platform for academics, focused on workplace reviews and network building, toward making academia a more inclusive and supportive place.
 
