@@ -1,6 +1,6 @@
 # jobTalk
 
-Welcome to the jobTalk project! Thanks for stopping by!
+Welcome to the jobTalk project! Thanks for stopping by! :tada:
 
 ## What are we doing?
 We are building a professional development platform for academics, focused on workplace reviews and network building. Think glassdoor for a rather unique workforce. 
